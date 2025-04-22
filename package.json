@@ -2,7 +2,7 @@
   "name": "swiggy",
   "version": "1.0.0",
   "description": "This is Namaste React",
-  "scripts": {
+  "scripts": {                               
     "test": "jest"
   },
   "repository": {
