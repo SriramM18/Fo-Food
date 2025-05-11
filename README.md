@@ -16,3 +16,24 @@
   - HTTPs
   - Tree Shaking - Removes unused files
   - Different dev and prod bundles 
+
+/*
+* Header
+*  - Logo
+*  - Nav Items
+* Body
+*  - Search
+*  - RestrauntContainer
+*    - RestrauntCard
+*      - Img
+*      - Rest name, rating, Cusinines, Delivery time
+* Footer
+*  - Copyright
+*  - Links
+*  - Address
+*  - Contact
+*/
+
+# React Hooks
+ - UseState() - State Variables in react
+ - UseEffect()
